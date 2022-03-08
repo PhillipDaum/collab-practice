@@ -4,3 +4,19 @@
 .row { 
     border: red 5px solid;
 }
+
+nav {
+    background-color: blueviolet;
+}
+
+#col1 {
+    background-color: green;
+}
+
+#col2 {
+    background-color: orange;
+}
+
+footer {
+    background-color: aqua;
+}
